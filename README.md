@@ -1,5 +1,5 @@
 ### Hi there 👋
-![GIF demo](img/demo.gif)
+![GIF demo](./demo.gif)
 
 <!--
 **lucas-garrido/lucas-garrido** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
